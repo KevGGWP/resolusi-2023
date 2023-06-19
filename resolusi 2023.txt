@@ -1,0 +1,3 @@
+RESOLUSI 2023
+- Menguasai GIT dan GITHUB
+- Menguasai Frontend
